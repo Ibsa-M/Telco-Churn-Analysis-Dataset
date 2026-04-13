@@ -63,7 +63,7 @@ telco-churn-analysis/
 * High-value customer identification
 
 
-## 🔍 Key Insights
+## 🔍 Key Findings
 
 * Customers with **low tenure** are more likely to churn
 * **Month-to-month contracts** show the highest churn rate
@@ -102,4 +102,4 @@ telco-churn-analysis/
 
 This project demonstrates how structured data analysis—from cleaning to advanced insights—can uncover meaningful patterns and support business decision-making.
 
-
+### In general this analysis demonstrates how combining multiple factors provides deeper insights than analyzing variables individually.
