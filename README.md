@@ -20,7 +20,7 @@ The goal is to identify key factors influencing churn and provide actionable bus
 telco-churn-analysis/
 │
 ├── data/
-│   ├── raw/                  # Original dataset and Cleaned dataset
+│   └── raw/                  # Original dataset and Cleaned dataset
 │               
 │
 ├── notebooks/
