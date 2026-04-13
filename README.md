@@ -103,8 +103,3 @@ telco-churn-analysis/
 This project demonstrates how structured data analysis—from cleaning to advanced insights—can uncover meaningful patterns and support business decision-making.
 
 
-## 👤 Author
-
-**Your Name**
-Data Science Enthusiast
-
